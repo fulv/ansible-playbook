@@ -1,0 +1,9 @@
+- src: https://github.com/fulv/ansible.plone_server.git
+  name: plone.plone_server
+  version: plone-4.3.5
+- src: jnv.unattended-upgrades
+  version: v1.0.1
+- src: tersmitten.fail2ban
+  version: v1.0.0
+- src: ANXS.hostname
+  version: v1.0.4
